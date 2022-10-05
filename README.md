@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Flutter  
   
 
-- 🔭 I’m currently working on [Veny Spa] 
+- 🔭 I’m currently working on "Veny Spa"'s mobile application
   
 
 - ❓ Ask me about anything related to Flutter and related technologies  
