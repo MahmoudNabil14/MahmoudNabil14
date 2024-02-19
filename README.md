@@ -6,7 +6,7 @@
 ### <div align="center">I'm Mahmoud Nabil, A passionate Flutter developer from Egypt  🚀</div>  
   
 
-- 🌱 I’m currently learning Flutter  
+- 🌱 I’m currently learning Project Management  
   
 
 - 🔭 I’m currently working in Algorithm Tech
@@ -26,7 +26,7 @@
 
 -  LinkedIn: https://www.linkedin.com/in/mahmoud-nabil-b6a8401b5/  
 
--  Phone: 01129592697  
+-  Phone: +201129592697  
   
 
 <br/>  
