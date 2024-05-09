@@ -6,7 +6,7 @@
 ### <div align="center">I'm Mahmoud Nabil, A passionate Flutter developer from Egypt  🚀</div>    
   
 
-- 🔭 I’m currently working in TurnDigital
+- 🔭 I’m currently working as Flutter Developer in TurnDigital
   
 
 - ❓ Ask me about anything related to Flutter and related technologies  
