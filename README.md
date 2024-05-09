@@ -3,13 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Mahmoud Nabil, A passionate Flutter developer from Egypt  🚀</div>  
+### <div align="center">I'm Mahmoud Nabil, A passionate Flutter developer from Egypt  🚀</div>    
   
 
-- 🌱 I’m currently learning Project Management  
-  
-
-- 🔭 I’m currently working in Algorithm Tech
+- 🔭 I’m currently working in TurnDigital
   
 
 - ❓ Ask me about anything related to Flutter and related technologies  
@@ -24,7 +21,7 @@
 ## Connect with me  
 -  Personal email: mahmoudnabil141981@gmail.com  
 
--  LinkedIn: https://www.linkedin.com/in/mahmoud-nabil-b6a8401b5/  
+-  LinkedIn: https://www.linkedin.com/in/mahmoud-naabil/  
 
 -  Phone: +201129592697  
   
