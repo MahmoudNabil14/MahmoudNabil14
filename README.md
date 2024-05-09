@@ -21,7 +21,7 @@
 ## Connect with me  
 -  Personal email: mahmoudnabil141981@gmail.com  
 
--  LinkedIn: https://www.linkedin.com/in/mahmoud-naabil/  
+-  LinkedIn: https://www.linkedin.com/in/mahmoudnaabil/  
 
 -  Phone: +201129592697  
   
