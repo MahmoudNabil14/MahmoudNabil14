@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Mahmoud Nabil, A passionate Flutter developer from Egypt  🚀</div>    
+### <div align="center">I'm Mahmoud Nabil, A passionate Software Engineer | Flutter Developer from Egypt  🚀</div>    
   
 
-- 🔭 I’m currently working as Flutter Developer in TurnDigital
+- 🔭 I’m currently working as Software Engineer in TurnDigital
   
 
 - ❓ Ask me about anything related to Flutter and related technologies  
