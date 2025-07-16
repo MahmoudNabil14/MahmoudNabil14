@@ -6,7 +6,7 @@
 ### <div align="center">I'm Mahmoud Nabil, A passionate Software Engineer | Senior Flutter Developer from Egypt  🚀</div>    
   
 
-- 🔭 I’m currently working as Software Engineer in TurnDigital
+- 🔭 I’m currently working as Senior Mobile Application Engineer in TurnDigital
   
 
 - ❓ Ask me about anything related to Flutter and related technologies  
